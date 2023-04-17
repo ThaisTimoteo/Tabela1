@@ -2,3 +2,13 @@
 .Rhistory
 .RData
 .Ruserdata
+
+#função para somar
+somar <-function (a, b) {
+  a + b
+}
+
+#função diminuir 
+diminuir <- funtcion (a, b) {
+  a - b
+}
